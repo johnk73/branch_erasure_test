@@ -1,2 +1,4 @@
 hello
 branch1
+detached
+detached
